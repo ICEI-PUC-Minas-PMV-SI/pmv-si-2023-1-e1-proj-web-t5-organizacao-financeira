@@ -13,8 +13,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Vyctoria Karina da Silva
 * Patrícia Gontijo Moraes
 * Pedro Viriato G. B. da Rocha
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Igor Marcos De Oliveira Pereira
+* Jesse Pereira Da Silva Oliveira
 
 ## Orientador
 
