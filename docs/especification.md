@@ -6,10 +6,34 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+  ## Persona 1
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+  <p>
+    Ariel tem dívidas acumuladas, e uma de suas principais metas é quitar essas dívidas e se livrar das preocupações financeiras associadas a elas. Ariel pode ter como objetivo construir uma estabilidade financeira para si mesmo, uma aposentadoria, criando uma reserva de emergência, estabelecendo um orçamento e economizando regularmente. Ela pode ter sonhos e projetos que requerem recursos financeiros, como viajar, comprar uma casa ou um carro, e ele pode estar determinado a trabalhar para tornar esses sonhos realidade. Ariel está sentindo a pressão da sociedade para alcançar certos marcos financeiros, como ter uma família, ter um carro ou uma casa própria, o que pode dificultar seu planejamento financeiro e gerar mais estresse e preocupação.
+    Ela tem dificuldades para manter o controle financeiro e ceder a impulsos de compra ou gastos desnecessários, o que pode afetar sua capacidade de alcançar suas metas financeiras. Ela é curiosa e tem interesse em aprender mais sobre finanças pessoais e investimentos para alcançar seus objetivos. Ariel está disposta a enfrentar desafios e a trabalhar duro para alcançar suas metas financeiras, mesmo que isso signifique fazer sacrifícios no curto prazo.
+  </p>
 
+  ![Persona 1](/docs/img/personas/1.png "Persona 1")
+
+  ## Persona 2
+
+  <p>
+    Lucas tem dificuldades em gerenciar suas despesas e precisa de ajuda para se organizar e criar um orçamento. Ele tem algumas dívidas do passado que quer quitar para melhorar sua situação financeira e ter acesso a crédito no futuro. Ele está determinado a alcançar a independência financeira e não depender mais dos pais ou de terceiros para seus gastos.
+    Embora tenha alguma familiaridade com o assunto, Lucas reconhece que precisa de mais conhecimento para gerenciar suas finanças de forma mais eficiente. Ele tem um objetivo de longo prazo de comprar um imóvel e precisa de ajuda para se preparar financeiramente e economizar para alcançar essa meta.
+    Lucas sente-se sobrecarregado ao tentar criar um orçamento ou acompanhar seus gastos e pode não saber por onde começar. As dívidas é uma fonte de ansiedade e estresse, e o frusta por não ter uma solução clara para esse problema. Ele tem metas claras e está disposto a trabalhar duro para alcançá-las. Pensar em não conseguir o deixa preocupado. Lucas está disposta a utilizar tecnologia para gerenciar suas finanças e pode estar interessada em soluções digitais que facilitem esse processo.
+  </p>
+
+  ![Persona 2](/docs/img/personas/2.png "Persona 2")
+
+  ## Persona 3
+
+  <p>
+    Carolina tem conhecimento intermediário em finanças pessoais, já que estudou algumas disciplinas relacionadas na faculdade e tem o hábito de ler sobre o assunto em blogs e sites especializados. É muito familiarizada com tecnologia e usa seu smartphone e laptop com frequência, tanto para fins pessoais quanto profissionais. Carolina gosta de ler, praticar yoga e viajar. Ela também é uma entusiasta da gastronomia e gosta de experimentar novos restaurantes e receitas. Carolina tem como meta crescer em sua carreira na área de Recursos Humanos, buscando se especializar e se destacar em sua área de atuação. Carolina tem o objetivo de comprar um imóvel para sua mãe, mas sabe que precisa organizar suas finanças e poupar dinheiro para conseguir realizar esse sonho. Ela também deseja fazer uma viagem internacional de lazer e conhecer outras culturas, mas sabe que precisa poupar dinheiro e planejar essa viagem com antecedência para que seja possível realizá-la.
+  </p>
+
+  ![Persona 3](/docs/img/personas/3.png "Persona 3")
+
+  
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
