@@ -1,4 +1,11 @@
-# Organização Financeira
+<h1 align="center"> Organização Financeira </h1> 
+
+<div align="center">
+
+  ![Capa do projeto](/docs/img/organizacao-financeira-cover.png "Capa do projeto")
+  
+</div>
+
 
 `CURSO: Sistemas de Informação`
 
