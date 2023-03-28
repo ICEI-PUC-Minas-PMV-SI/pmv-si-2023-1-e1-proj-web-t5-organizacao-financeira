@@ -11,11 +11,11 @@ Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Um dos maiores desafios enfrentados por jovens-adultos brasileiros é a falta de planejamento financeiro e a educação financeira.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Muitos jovens adultos não possuem conhecimento sobre como gerir seu dinheiro de forma eficiente, e acabam gastando mais do que ganham, acumulando dívidas e enfrentando dificuldades para pagar as contas no final do mês, outros problemas também são: a falta de oportunidades de emprego com salários justos, a dificuldade em conseguir crédito e em lidar com as altas taxas de juros, e o endividamento com cartões de crédito. 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Além disso, muitos não têm o hábito de poupar e investir, o que dificulta o acúmulo de patrimônio e a realização de objetivos financeiros a longo prazo.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -24,9 +24,22 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+### - Objetivo geral
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+---
+
+Desenvolver uma aplicação web que ajuda jovens-adultos que estão sendo integrados a uma vida financeira a ficarem mais informados sobre o mundo das finanças, aprendam sobre tópicos importante que, geralmente, não é ensinado nas escolas, criem um planejamento financeiro e se educem mais fornecendo recursos e ferramentas que ajudam os usuários a gerenciar seu dinheiro de forma mais eficiente com recursos sobre planejamento financeiro, controle de gastos, sugestões de investimento, acesso a cursos de educação financeira, entre outras funcionalidades que ajudem os usuários a entender melhor como gerenciar seu dinheiro.
+
+### - Objetivos específicos
+
+---
+
+- Espaço “blog” com posts/artigos com informações, dicas, sugestões de leitura, fornecer cursos e materiais educacionais sobre finanças pessoais, investimentos e gestão financeira.
+- Planejamento financeiro: permitir que os usuários criem orçamentos, estebeleçam metas financeiras e planejem seus gastos.
+- Controlede gastos: permitir que o usuário contrele seus gastos diários e categorizem suas despesas.
+- Alertas de Vencimento: notificar os usuários sobre as datas de vencimento de suas contas e faturas para evitar multas e juros.
+- Sugestões de Investimento: fornecer sugestões personalizadas de investimentos de acordo com o perfil do usuário e seus objetivos financeiros.
+- Comunidade de Usuários: permitir que os usuários compartilhem suas experiências financeiras, dicas e dúvidas em uma comunidade de usuários para ajudar uns aos outros.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
@@ -42,10 +55,8 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+O público-alvo do projeto é composto por jovens adultos brasileiros entre 18 e 35 anos, que enfrentam dificuldades em gerenciar seu dinheiro de forma eficiente e que buscam soluções práticas e acessíveis para melhorar sua vida financeira. Esses jovens adultos podem estar iniciando sua carreira profissional, estudando ou ainda dependendo dos pais financeiramente.
+Eles podem ter diferentes níveis de conhecimento sobre finanças pessoais e investimentos, mas em geral, acreditamos que precisam de uma aplicação que os ajude a se organizar financeiramente e alcançar seus objetivos. Esses objetivos podem incluir a economia para a compra de um imóvel, o pagamento de dívidas, a reserva de emergência, a realização de viagens, entre outros. Quanto à relação com a tecnologia, espera-se que esse público esteja familiarizado com aplicativos móveis e web e tenha habilidades básicas de navegação na internet.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
