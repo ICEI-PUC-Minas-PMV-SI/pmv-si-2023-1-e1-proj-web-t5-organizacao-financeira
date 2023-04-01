@@ -46,9 +46,10 @@ Desenvolver uma aplicação web que ajuda jovens-adultos que estão sendo integr
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O projeto foi escolhido por ser uma necessidade real e urgente da sociedade brasileira, especialmente entre os jovens adultos que estão enfrentando dificuldades financeiras.
+Além disso, a educação financeira é um tema pouco abordado e muitas vezes negligenciado no sistema educacional brasileiro, o que aumenta a importância de uma solução que possa ajudar a população a lidar com suas finanças de forma mais eficiente e consciente. Entretanto, é importante ressaltar que a solução para esse problema não é simples e requer um processo árduo de pesquisa, análise e desenvolvimento. Além disso, é preciso levar em consideração que muitos jovens adultos podem não estar dispostos a utilizar a plataforma ou a mudar seus hábitos financeiros, o que pode dificultar a adesão e a efetividade do projeto. Por isso, é fundamental que haja uma abordagem estratégica e cuidadosa na criação e implementação da aplicação, buscando sempre o engajamento e a conscientização dos usuários.
+Segundo uma pesquisa realizada em 2021 pela Confederação Nacional dos Dirigentes Lojistas (CNDL) em parceria com o Serviço de Proteção ao Crédito (SPC Brasil), mais de 60% dos jovens brasileiros entre 18 e 34 anos estão endividados. O estudo apontou ainda que o principal motivo da inadimplência entre os jovens é o descontrole financeiro e a falta de planejamento. [[1]](./references.md)
+Outra pesquisa realizada em 2021 pela startup de finanças pessoais Mobills revelou que 74,5% dos jovens adultos brasileiros têm dificuldades em lidar com o próprio dinheiro. O estudo apontou que os principais desafios enfrentados pelos jovens adultos brasileiros são falta de planejamento financeiro, dificuldade em economizar e descontrole de gastos. [[2]](./references.md)
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)

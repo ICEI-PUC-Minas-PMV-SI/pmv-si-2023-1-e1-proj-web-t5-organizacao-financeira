@@ -7,9 +7,9 @@ Inclua todas as referências (livros, artigos, sites, etc) utilizadas no desenvo
 
 Exemplos de referências bibliográficas:
 
-**[1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
+**[1]** - [(CNDL; SPC Brasil, 2021)](https://www.spcbrasil.org.br/noticias/inadimplencia-afeta-665-milhoes-de-brasileiros-em-2021-aponta-estudo-da-cndlspc-brasil)
 
-**[2]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
+**[2]** - [(CNDL; SPC Brasil, 2021)](https://www.spcbrasil.org.br/noticias/inadimplencia-afeta-665-milhoes-de-brasileiros-em-2021-aponta-estudo-da-cndlspc-brasil)
 
 **[3]** - _CORMEN, Thomas H. et al. **Algoritmos: teoria e prática**. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996._
 
