@@ -91,6 +91,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-007 | Alerta de gastos excessivos | O sistema deve alertar o usuário quando seus gastos atingirem um valor pré-determinado ou se estiverem acima da média mensal. |
 | RF-009 | Categorização automática de transações | O sistema deve categorizar automaticamente as transações financeiras do usuário com base em sua natureza. |
 | RF-010 | Controle de fluxo de caixa | O sistema deve permitir o controle do fluxo de caixa, permitindo que o usuário saiba exatamente quanto dinheiro ele tem disponível para gastar em um determinado período. |
+| RF-011 | Criação de conta | O sistema deve permitir cadastro de usuário |
+| RF-012 | Login / Logout | O sistema deve permitir login e logout do usuário |
+
 
 
 
