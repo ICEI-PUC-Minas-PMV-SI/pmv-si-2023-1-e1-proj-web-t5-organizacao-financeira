@@ -41,13 +41,10 @@ Desenvolver uma aplicação web que ajuda jovens-adultos que estão sendo integr
 
 ## Justificativa
 
-O projeto foi escolhido por ser uma necessidade real e urgente da sociedade brasileira, especialmente entre os jovens adultos que estão enfrentando dificuldades financeiras.
-Além disso, a educação financeira é um tema pouco abordado e muitas vezes negligenciado no sistema educacional brasileiro, o que aumenta a importância de uma solução que possa ajudar a população a lidar com suas finanças de forma mais eficiente e consciente. Entretanto, é importante ressaltar que a solução para esse problema não é simples e requer um processo árduo de pesquisa, análise e desenvolvimento. Além disso, é preciso levar em consideração que muitos jovens adultos podem não estar dispostos a utilizar a plataforma ou a mudar seus hábitos financeiros, o que pode dificultar a adesão e a efetividade do projeto. Por isso, é fundamental que haja uma abordagem estratégica e cuidadosa na criação e implementação da aplicação, buscando sempre o engajamento e a conscientização dos usuários.
-Segundo uma pesquisa realizada em 2021 pela Confederação Nacional dos Dirigentes Lojistas (CNDL) em parceria com o Serviço de Proteção ao Crédito (SPC Brasil), mais de 60% dos jovens brasileiros entre 18 e 34 anos estão endividados. O estudo apontou ainda que o principal motivo da inadimplência entre os jovens é o descontrole financeiro e a falta de planejamento. [[1]](./references.md)
-Outra pesquisa realizada em 2021 pela startup de finanças pessoais Mobills revelou que 74,5% dos jovens adultos brasileiros têm dificuldades em lidar com o próprio dinheiro. O estudo apontou que os principais desafios enfrentados pelos jovens adultos brasileiros são falta de planejamento financeiro, dificuldade em economizar e descontrole de gastos. [[2]](./references.md)
+Segundo dados, quatro em cada 10 brasileiros adultos (39,71%) estavam negativados em setembro de 2022, o equivalente a 64,25 milhões de pessoas. [1] Segundo os dados da Confederação Nacional de Dirigentes Lojistas (CNDL) e do Serviço de Proteção ao Crédito (SPC Brasil), este é o novo recorde da série histórica do levantamento, realizado há oito anos.[2] No mês de setembro deste ano, o volume de consumidores com contas atrasadas cresceu 11,17% em relação ao mesmo período do ano anterior.
+[3]Entre os jovens, o número também é alto. Segundo pesquisa da CNDL (Confederação Nacional de Dirigentes Lojistas) e do SPC Brasil (Serviço de Proteção ao Crédito) de 2019, quase metade (47%) dos jovens brasileiros entre 18 e 24 anos não controla suas finanças pessoais. Entre as principais justificativas, 19% afirmaram não saber como fazer o controle financeiro, 18% disseram sentir preguiça e outros 18% não têm o hábito ou disciplina de tomar conta do dinheiro. O estudo mostra como, mesmo fazendo parte de um grupo que, em sua maioria, cresceu em um ambiente digital e com acesso a grande quantidade de informação, a educação financeira ainda não é algo natural para esse público.
+Entende-se que o problema descrito acima, é um embrolho pois não apenas impacta em dívidas ao longo da vida, mas também, a realização de sonhos e a aposentadoria.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
