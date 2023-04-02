@@ -50,8 +50,20 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Registrar e visualizar meus gastos | Ter mais consiência do que consumo     |
+|Usuário do sistema  | Criar e gerenciar um orçamento     | Controlar melhor suas despesas e poupar dinheiro |
+|Usuário do sistema  | Acessar conteúdos educativos sobre finanças pessoais | Aprender mais sobre finanças pessoais e investimentos |
+|Usuário do sistema  | Visualizar meu histórico de gastos por categoria     | Identificar áreas onde pode economizar mais |
+|Usuário do sistema  | Receber sugestões de investimentos   | Investir seu dinheiro de forma mais eficiente e alinhada com seus objetivos financeiros |
+|Usuário do sistema  | Configurar uma reserva de emergência | Estar preparada para imprevistos financeiros |
+|Usuário do sistema  | Exportar dados para análises futuras | Fazer análises personalizadas para tomar decisões financeiras mais eficazes |
+|Usuário do sistema  | Categorizar meus gastos por tipo   | Identificar onde estou gastando mais e cortar gastos desnecessários  |
+|Usuário do sistema  | Estabelecer metas de economia	 | Motivar-me a poupar dinheiro para alcançar meus objetivos financeiros   |
+|Usuário do sistema  | Verificar meu saldo de forma rápida e fácil | Facilitar minhas transações financeiras                     |
+|Usuário do sistema  | Ter acesso a uma calculadora       | Verificar o potencial de crescimento do meu dinheiro ao longo do tempo  |
+|Usuário do sistema  | Registrar e visualizar meus gastos | Ter mais consiência do que consumo     |
+
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -68,18 +80,33 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade | Responsável |
-|------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
+| ID | REQUSITO | DESCRIÇÃO DO REQUISITO |
+| --- | --- | --- |
+| RF-001 | Cadastrar despesas | O sistema deve permitir o cadastro de despesas com a data, categoria, valor e uma breve descrição. |
+| RF-002 | Cadastrar receitas | O sistema deve permitir o cadastro de receitas com a data, categoria, valor e uma breve descrição. |
+| RF-003 | Gerar relatórios de despesas e receitas | O sistema deve permitir a geração de relatórios de despesas e receitas, apresentando um resumo de cada categoria e o total gasto ou recebido. |
+| RF-004 | Definir metas financeiras | O sistema deve permitir que o usuário defina suas metas financeiras, como economizar para uma viagem ou para a compra de um imóvel. |
+| RF-005 | Acompanhar o progresso das metas | O sistema deve permitir que o usuário acompanhe o progresso de suas metas financeiras, apresentando gráficos e informações relevantes. |
+| RF-006 | Sugestão de investimentos | O sistema deve sugerir investimentos para o usuário |
+| RF-007 | Alerta de gastos excessivos | O sistema deve alertar o usuário quando seus gastos atingirem um valor pré-determinado ou se estiverem acima da média mensal. |
+| RF-009 | Categorização automática de transações | O sistema deve categorizar automaticamente as transações financeiras do usuário com base em sua natureza. |
+| RF-010 | Controle de fluxo de caixa | O sistema deve permitir o controle do fluxo de caixa, permitindo que o usuário saiba exatamente quanto dinheiro ele tem disponível para gastar em um determinado período. |
+
+
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+| ID | REQUSITO | DESCRIÇÃO DO REQUISITO |
+| --- | --- | --- |
+| RNF-001 | Usabilidade | O sistema deve ser fácil de usar e entender, mesmo para usuários com pouco conhecimento em finanças pessoais. |
+| RNF-002 | Performance | O sistema deve ser rápido e responsivo, permitindo o acesso a relatórios e informações em tempo real. |
+| RNF-003 | Confiabilidade | O sistema deve ser confiável, garantindo que as informações fornecidas sejam precisas e atualizadas. |
+| RNF-004 | Compatibilidade | O sistema deve ser compatível com diferentes dispositivos e sistemas operacionais, permitindo que o usuário acesse suas informações de qualquer lugar. |
+| RNF-005 | Manutenibilidade | O sistema deve ser fácil de manter e atualizar, permitindo que novas funcionalidades sejam adicionadas sem grandes problemas |
+| RNF-006 | Usabilidade | O sistema deve apresentar um design limpo e intuitivo, facilitando a navegação e o uso por diferentes perfis de usuários. |
+| RNF-007 | Funcionalidade | O sistema deve apresentar uma seção “blog”, onde terá artigos, publicações, dicas e diferentes formatos de recursos sobre educação e dicas financeiras |
+| RNF-008 | Documentação | O sistema deve ser bem documentado, com manuais de uso, guias de instalação e outras informações relevantes para usuários e desenvolvedores. |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
