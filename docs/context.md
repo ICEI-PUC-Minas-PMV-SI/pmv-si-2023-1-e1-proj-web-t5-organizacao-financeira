@@ -33,7 +33,7 @@ Desenvolver uma aplicação web que ajuda jovens-adultos que estão sendo integr
 - Planejamento financeiro: permitir que os usuários criem orçamentos, estebeleçam metas financeiras e planejem seus gastos.
 - Controlede gastos: permitir que o usuário contrele seus gastos diários e categorizem suas despesas.
 - Alertas de Vencimento: notificar os usuários sobre as datas de vencimento de suas contas e faturas para evitar multas e juros.
-- Sugestões de Investimento: fornecer sugestões personalizadas de investimentos de acordo com o perfil do usuário e seus objetivos financeiros.
+- Sugestões de Investimento: fornecer sugestões de investimentos para o usuário.
 - Comunidade de Usuários: permitir que os usuários compartilhem suas experiências financeiras, dicas e dúvidas em uma comunidade de usuários para ajudar uns aos outros.
  
 > **Links Úteis**:
