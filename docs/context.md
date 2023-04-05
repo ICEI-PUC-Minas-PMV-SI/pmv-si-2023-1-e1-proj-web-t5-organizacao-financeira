@@ -27,7 +27,7 @@ Além disso, muitos não têm o hábito de poupar e investir, o que dificulta o 
 
 ---
 
-Desenvolver uma aplicação web que ajuda jovens-adultos que estão sendo integrados a uma vida financeira a ficarem mais informados sobre o mundo das finanças, aprendam sobre tópicos importante que, geralmente, não é ensinado nas escolas, criem um planejamento financeiro e se educem mais fornecendo recursos e ferramentas que ajudam os usuários a gerenciar seu dinheiro de forma mais eficiente com recursos sobre planejamento financeiro, controle de gastos, sugestões de investimento, acesso a cursos de educação financeira, entre outras funcionalidades que ajudem os usuários a entender melhor como gerenciar seu dinheiro.
+Desenvolver uma aplicação web que ajuda jovens-adultos que estão sendo integrados a uma vida financeira a ficarem mais informados sobre o mundo das finanças, aprendam sobre tópicos importantes que, geralmente, não são ensinados nas escolas, criem um planejamento financeiro e se eduquem mais fornecendo recursos e ferramentas que ajudam os usuários a gerenciar seu dinheiro de forma mais eficiente com recursos sobre planejamento financeiro, controle de gastos, sugestões de investimento, acesso a cursos de educação financeira, entre outras funcionalidades que ajudem os usuários a entenderem melhor como gerenciar seu dinheiro.
 
 ### - Objetivos específicos
 
@@ -35,8 +35,8 @@ Desenvolver uma aplicação web que ajuda jovens-adultos que estão sendo integr
 
 - Espaço “blog” com posts/artigos com informações, dicas, sugestões de leitura, fornecer cursos e materiais educacionais sobre finanças pessoais, investimentos e gestão financeira.
 - Planejamento financeiro: permitir que os usuários criem orçamentos, estebeleçam metas financeiras e planejem seus gastos.
-- Controlede gastos: permitir que o usuário contrele seus gastos diários e categorizem suas despesas.
-- Alertas de Vencimento: notificar os usuários sobre as datas de vencimento de suas contas e faturas para evitar multas e juros.
+- Controle de gastos: permitir que o usuário controle seus gastos diários e categorizem suas despesas.
+- Alertas de Vencimento: notificar os usuários sobre as datas de vencimento de suas contas e faturas para evitar multas e juros desnecessários.
 - Sugestões de Investimento: fornecer sugestões de investimentos para o usuário.
 - Comunidade de Usuários: permitir que os usuários compartilhem suas experiências financeiras, dicas e dúvidas em uma comunidade de usuários para ajudar uns aos outros.
  
@@ -45,9 +45,9 @@ Desenvolver uma aplicação web que ajuda jovens-adultos que estão sendo integr
 
 ## Justificativa
 
-Segundo dados, quatro em cada 10 brasileiros adultos (39,71%) estavam negativados em setembro de 2022, o equivalente a 64,25 milhões de pessoas. [1] Segundo os dados da Confederação Nacional de Dirigentes Lojistas (CNDL) e do Serviço de Proteção ao Crédito (SPC Brasil), este é o novo recorde da série histórica do levantamento, realizado há oito anos.[2] No mês de setembro deste ano, o volume de consumidores com contas atrasadas cresceu 11,17% em relação ao mesmo período do ano anterior.
-[3]Entre os jovens, o número também é alto. Segundo pesquisa da CNDL (Confederação Nacional de Dirigentes Lojistas) e do SPC Brasil (Serviço de Proteção ao Crédito) de 2019, quase metade (47%) dos jovens brasileiros entre 18 e 24 anos não controla suas finanças pessoais. Entre as principais justificativas, 19% afirmaram não saber como fazer o controle financeiro, 18% disseram sentir preguiça e outros 18% não têm o hábito ou disciplina de tomar conta do dinheiro. O estudo mostra como, mesmo fazendo parte de um grupo que, em sua maioria, cresceu em um ambiente digital e com acesso a grande quantidade de informação, a educação financeira ainda não é algo natural para esse público.
-Entende-se que o problema descrito acima, é um embrolho pois não apenas impacta em dívidas ao longo da vida, mas também, a realização de sonhos e a aposentadoria.
+Segundo dados, quatro em cada 10 brasileiros adultos (39,71%) estavam negativados em setembro de 2022, o equivalente a 64,25 milhões de pessoas. [1] Segundo os dados de 2021 da Confederação Nacional de Dirigentes Lojistas (CNDL) e do Serviço de Proteção ao Crédito (SPC Brasil), este é o novo recorde da série histórica do levantamento, realizado há oito anos.[2] No mês de setembro do mesmo ano, o volume de consumidores com contas atrasadas cresceu 11,17% em relação ao mesmo período do ano anterior.
+[3]Entre os jovens, o número também é alto. Segundo pesquisa da CNDL (Confederação Nacional de Dirigentes Lojistas) e do SPC Brasil (Serviço de Proteção ao Crédito) de 2019, quase metade (47%) dos jovens brasileiros entre 18 e 24 anos não controlam suas finanças pessoais. Entre as principais justificativas, 19% afirmaram não saber como fazer o controle financeiro, 18% disseram sentir preguiça e outros 18% não têm o hábito ou disciplina de tomar conta do dinheiro. O estudo mostra como, mesmo fazendo parte de um grupo que, em sua maioria, cresceu em um ambiente digital e com acesso a grande quantidade de informação, a educação financeira ainda não é algo natural para esse público.
+Entende-se que o problema descrito acima, é um imbróglio pois não apenas impacta em dívidas ao longo da vida, mas também, a realização de sonhos e a aposentadoria.
 
 
 ## Público-Alvo
