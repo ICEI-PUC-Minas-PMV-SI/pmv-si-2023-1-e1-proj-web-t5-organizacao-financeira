@@ -17,7 +17,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
 <div align-"center">
-<img src= "https://user-images.githubusercontent.com/129346164/233167115-eae40d96-50bb-468d-8400-d8d03ce507f2.png" />
+<img src= "https://user-images.githubusercontent.com/129346164/234993584-92ad9e32-6616-48ae-a9a2-d360e5b508ad.png" />
 </div>
 
 ## Wireframes
@@ -29,6 +29,7 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 A tela Inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade.
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
+
 
  
 > **Links Úteis**:
