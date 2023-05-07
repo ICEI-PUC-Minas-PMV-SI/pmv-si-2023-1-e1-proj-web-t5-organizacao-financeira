@@ -31,6 +31,9 @@ A tela Inicial apresenta um menu lateral com as principais seções do portal, e
 Esta é a página inicial
 
    ![image](https://user-images.githubusercontent.com/129346164/236664230-7870a5da-ae95-44dc-aa20-cdec33e9e77a.png)
+
+Atende ao requisito RF-006	Sugestão de investimentos	O sistema deve sugerir investimentos para o usuário
+   ![image](https://user-images.githubusercontent.com/129346164/236702168-fee4fc7f-be5e-43a3-9442-433d7c7ccf7b.png)
    
 Atende o requisito *RF-011*	Criação de conta	O sistema deve permitir cadastro de usuário - *RF-012*	Login / Logout	O sistema deve permitir login e logout do usuário
    ![image](https://user-images.githubusercontent.com/129346164/236701787-9e3ba32b-3d89-4f51-8d1f-22741abcb984.png)
