@@ -28,8 +28,9 @@ A tela Inicial apresenta um menu lateral com as principais seções do portal, e
 
 ![image](https://user-images.githubusercontent.com/129346164/236662681-7e5e2549-bad7-4bd9-addc-0d1f37696a96.png)
 
-Essa página atende ao requisito 
-![image](https://user-images.githubusercontent.com/129346164/236664230-7870a5da-ae95-44dc-aa20-cdec33e9e77a.png)
+Esta é a página inicial
+
+   ![image](https://user-images.githubusercontent.com/129346164/236664230-7870a5da-ae95-44dc-aa20-cdec33e9e77a.png)
 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
