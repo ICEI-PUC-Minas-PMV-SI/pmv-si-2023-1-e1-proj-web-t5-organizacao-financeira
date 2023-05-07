@@ -52,3 +52,10 @@ Outras seções podem ser adicionadas neste documento para apresentar padrões d
 
 
 ![Tela Login](/docs/img/tela-login-desktop.png "Tela login")
+
+
+## Simulação Desktop e Mobile
+
+![Tela Login - Desktop ](/docs/img/desktop-login-simulacao.jpg "Tela login - desktop")
+![Tela Login - Mobile ](/docs/img/mobile-tela-login.jpg "Tela login - mobile")
+
