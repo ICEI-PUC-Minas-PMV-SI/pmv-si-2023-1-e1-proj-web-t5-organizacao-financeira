@@ -37,6 +37,10 @@ Atende ao requisito RF-006	Sugestão de investimentos	O sistema deve sugerir inv
    
 Atende o requisito *RF-011*	Criação de conta	O sistema deve permitir cadastro de usuário - *RF-012*	Login / Logout	O sistema deve permitir login e logout do usuário
    ![image](https://user-images.githubusercontent.com/129346164/236701787-9e3ba32b-3d89-4f51-8d1f-22741abcb984.png)
+   
+Atende ao requisito RF-009	Categorização automática de transações	O sistema deve categorizar automaticamente as transações financeiras do usuário com base em sua natureza.
+   ![image](https://user-images.githubusercontent.com/129346164/236704588-25ae5598-54d8-412b-86d6-614ae4d1a8b6.png)
+
 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
