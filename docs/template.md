@@ -26,7 +26,12 @@ Apresente a paleta de cores que será utilizada. Uma ferramenta interessante par
 
 Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
 
-![Tipografia do projeto](./img/tipografia.png "Tipografia do projeto")
+<div align="center">
+
+  ![Tipografia do projeto](./img/tipografia.png "Tipografia do projeto")
+  ![Tipografia do projeto](./img/tipografia%20-%20textos.png "Tipografia do projeto")
+
+</div>
 
 
 ## Iconografia
