@@ -26,14 +26,8 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 A tela Inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade.
 
-![trabalho](https://user-images.githubusercontent.com/129346164/236331279-d2c6d063-9507-4581-bd06-c13face3b7c8.png)
+![image](https://user-images.githubusercontent.com/129346164/236662681-7e5e2549-bad7-4bd9-addc-0d1f37696a96.png)
 
-
-![travalho 3](https://user-images.githubusercontent.com/129346164/236338677-3e26017e-9dba-4871-9b33-add34b2105bc.png)
-
-
-
- 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
