@@ -61,7 +61,8 @@
     line-height: 0.5;
 }
 .login_inputs h1 + span {
-    margin-bottom: 3.75rem;
+    margin-bottom: 3rem;
+    font-weight: lighter;
 }
 .formulario_login {
     display: flex;
@@ -69,6 +70,10 @@
 }
 .input_email, .input_senha {
     display: inline-grid;
+}
+.label {
+    color: #228896;
+    font-weight: bolder;
 }
 .esqueceu_senha {
     font-weight: lighter;
