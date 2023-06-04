@@ -17,10 +17,11 @@ class Login {
                 if(self.validateFields(input) == false) {
                     error++;
                 }
-                if(error == 0) {
-                    console.log('success');
-                }
             })
+            if(error == 0) {
+                console.log('success');
+                this.form.submit();
+            }
         })
     }
 
@@ -29,14 +30,40 @@ class Login {
             this.setStatus(
                 field,
                 `${field.previousElementSibling.innerText} não pode estar vazio`,
+                // `O campo está vazio!`,
                 "error"
             );
             return false;
+        } else {
+            if(field.type == 'password') {
+                if (field.value.length < 8) {
+                    this.setStatus(
+                        field,
+                        `${field.previousElementSibling.innerText} precisa ter pelo menos 8 caractéres.`,
+                        "error"
+                    );
+                    return false;
+                } else {
+                    this.setStatus(field, null, "success");
+                    return true;
+                }
+            } else {
+                this.setStatus(field, null, "success");
+                return true;
+            }
         }
     }
 
     setStatus(field, message, status) {
         const errorMessage = field.parentElement.querySelector('.error-message');
+
+        if(status == 'success') {
+            if(errorMessage) {
+                errorMessage.innerText = ''
+            }
+            field.classList.remove('input-error');
+        }
+
         if(status == "error") {
             errorMessage.innerText = message;
             field.classList.add('input-error');
