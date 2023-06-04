@@ -16,10 +16,8 @@
 O projeto consiste em desenvolver uma aplicação web que ajude jovens adultos brasileiros a lidar com questões financeiras. Através da aplicação, os usuários poderão ter acesso a informações sobre finanças pessoais, investimentos e orçamento, bem como receber dicas personalizadas de acordo com seus objetivos financeiros. A aplicação também permitirá que os usuários realizem o acompanhamento de suas despesas e receitas, assim como oferecerá ferramentas para ajudá-los a tomar decisões financeiras mais conscientes e efetivas com base em uma economia de mercado atualizada. O objetivo é fornecer uma solução prática e acessível para um dos maiores desafios enfrentados pelos jovens adultos brasileiros hoje: gerenciar suas finanças pessoais.
 ## Integrantes
 
-* Igor Marcos De Oliveira Pereira
 * Jesse Pereira Da Silva Oliveira
 * Patrícia Gontijo Moraes
-* Pedro Viriato G. B. da Rocha
 * Vyctoria Karina da Silva
 
 
@@ -27,6 +25,10 @@ O projeto consiste em desenvolver uma aplicação web que ajude jovens adultos b
 ## Orientador
 
 * Luciana de Nardin
+
+### Link do projeto no ar
+
+[Clique aqui!](https://wonderful-empanada-d00508.netlify.app/)
 
 # Planejamento
 
