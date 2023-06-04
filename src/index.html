@@ -31,16 +31,13 @@
       <form id="formulario_login" class="formulario_login" action="dashboard.html" method="post" onsubmit="loginUser(this)">
         <div class="input_email">
           <label for="email" class="label">E-mail</label>
-          <input type="email" name="email" id="email" />
-          <span class="error-message"></span>
+          <input type="email" name="email" id="email" placeholder="Digite seu e-mail aqui..."/>
         </div>
         <div class="input_senha">
           <label for="password" class="label">Senha</label>
-          <input type="password" name="password" id="password" />
-          <span class="error-message"></span>
+          <input type="password" name="password" id="password" placeholder="*******"/>
         </div>
 
-        <span class="esqueceu_senha">Esqueceu sua senha? <a href="#">Clique aqui!</a></span>
         <button class="btn_login" type="submit">Entrar</button>
         <span class="criar_conta">Não possui conta? <a href="cadastro.html">Crie aqui!</a></span>
       </form>

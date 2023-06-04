@@ -5,33 +5,58 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="cadastro.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet" />
     <title>Cadastro</title>
+    <script src="https://kit.fontawesome.com/302159e508.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
-    <h1>Cadastro</h1>
 
-    <form id="login-form" class="form" method="post" onsubmit="loginUser(this)">
-        <h3 class="text-center text-info">Novo usuário</h3>
-        <div class="form-group">
-            <label for="nome" class="text-info">Nome completo</label><br>
-            <input type="text" name="txt_nome" id="txt_nome" class="form-control">
+    <div class="login_container">
+        <div class="title_slogan">
+            <div class="image">
+                <div class="texts">
+                    <h1>Diário Financeiro &#128176;</h1>
+                    <p>MAIS CONTROLE</p>
+                    <p>MENOS ESTRESSE</p>
+                </div>
+            </div>
         </div>
-        <div class="form-group">
-            <label for="email" class="text-info">Email</label><br>
-            <input type="text" name="txt_email" id="txt_email" class="form-control">
-        </div>
-        <div class="form-group">
-            <label for="senha" class="text-info">Senha</label><br>
-            <input type="password" name="txt_senha" id="txt_senha" class="form-control">
-        </div>
-        <div class="form-group">
-            <label for="senha2" class="text-info">Confirmação de Senha</label><br>
-            <input type="password" name="txt_senha2" id="txt_senha2" class="form-control">
-        </div>
-        <button type="button" id="btn_salvar" class="btn btn-info">Salvar</button>
 
-    </form>
+        <div id="login" class="login_inputs register_container">
+            <h1>Faça seu cadastro &#128075;</h1>
+
+            <form id="login-form" class="form" method="post" onsubmit="loginUser(this)">
+                <div class="form-group">
+                    <label for="nome" class="text-info">Nome completo</label><br>
+                    <input type="text" name="txt_nome" id="txt_nome" class="form-control"
+                        placeholder="Digite seu nome aqui...">
+                </div>
+                <div class="form-group">
+                    <label for="email" class="text-info">Email</label><br>
+                    <input type="text" name="txt_email" id="txt_email" class="form-control"
+                        placeholder="Digite seu e-mail aqui...">
+                </div>
+                <div class="form-group">
+                    <label for="senha" class="text-info">Senha</label><br>
+                    <input type="password" name="txt_senha" id="txt_senha" class="form-control" placeholder="*******">
+                </div>
+                <div class="form-group">
+                    <label for="senha2" class="text-info">Confirme a senha</label><br>
+                    <input type="password" name="txt_senha2" id="txt_senha2" class="form-control" placeholder="*******">
+                </div>
+                <button type="button" id="btn_salvar" class="btn btn-info">Criar conta</button>
+
+                <a href="index.html"><i class="back-icon fa-solid fa-chevron-left fa-2xl" style="color: #060709;"></i></a>
+            </form>
+        </div>
+    </div>
+
 
     <script src="login.js"></script>
     <script>
@@ -46,9 +71,14 @@
             let email = document.getElementById('txt_email').value;
             let senha = document.getElementById('txt_senha').value;
             let senha2 = document.getElementById('txt_senha2').value;
+
             if (senha != senha2) {
                 alert('As senhas informadas não conferem.');
-                return
+                return false
+            }
+            if(nome == '' || email == '' || senha == '' || senha2 == '') {
+                alert('Todos os campos devem ser preenchidos!');
+                return false
             }
 
             // Adiciona o usuário no banco de dados
