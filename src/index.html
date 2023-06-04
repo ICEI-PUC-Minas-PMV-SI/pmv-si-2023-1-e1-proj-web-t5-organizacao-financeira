@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Diário Financeiro</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <script src="login.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <script>
+      // Verifica se o usuário já esta logado e se negativo, redireciona para tela de login
+      if (!usuarioCorrente.login) {
+        window.location.href = LOGIN_URL;
+      }
+
+      function exibeUsuarios() {
+        // Popula a tabela com os registros do banco de dados
+        let listaUsuarios = "";
+        for (i = 0; i < db_usuarios.usuarios.length; i++) {
+          let usuario = db_usuarios.usuarios[i];
+          listaUsuarios += `<tr><td scope="row">${usuario.nome}</td><td>${usuario.login}</td><td>${usuario.email}</td></tr>`;
+        }
+
+        // Substitui as linhas do corpo da tabela
+        document.getElementById("table-usuarios").innerHTML = listaUsuarios;
+      }
+
+      function initPage() {
+        // Associa a função de logout ao botão
+        document
+          .getElementById("btn_logout")
+          .addEventListener("click", logoutUser);
+
+        // Informa o nome do usuário logado
+        document.getElementById("nomeUsuario").innerHTML = usuarioCorrente.nome;
+
+        // Lista os usuários
+        exibeUsuarios();
+      }
+
+      // Associa ao evento de carga da página a função para verificar se o usuário está logado
+      window.addEventListener("load", initPage);
+    </script>
+  </head>
+
+  <body>
+    <div class="login_container">
+      <div class="title_slogan">
+        <div class="image">
+          <div class="texts">
+            <h1>Diário Financeiro 💰</h1>
+            <p>MAIS CONTROLE</p>
+            <p>MENOS ESTRESSE</p>
+          </div>
+        </div>
+      </div>
+      <div class="login_inputs">
+        <h1>Bem-vindo(a) &#128075;</h1>
+        <span>Por favor, insira seus dados</span>
+
+        <form class="formulario_login">
+          <div class="input_email">
+            <label for="email">E-mail:</label>
+            <input type="email" name="email" id="email" />
+          </div>
+          <div class="input_senha">
+            <label for="password">Senha:</label>
+            <input type="password" name="password" id="password" />
+          </div>
+
+          <span class="esqueceu_senha">Esqueceu sua senha? <a href="#">Clique aqui!</a></span>
+          <button class="btn_login">Entrar</button>
+          <span class="criar_conta">Não possui conta? <a href="#">Crie aqui!</a></span>
+        </form>
+      </div>
+    </div>
+
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

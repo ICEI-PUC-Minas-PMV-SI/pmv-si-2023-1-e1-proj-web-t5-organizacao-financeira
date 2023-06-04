@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.login_container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100vw;
+    height: 100vh;
+}
+
+/* título e slogan */
+
+.title_slogan .image{
+    height: 100%;
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.57);
+    background-image:
+    url(https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: saturation;
+    text-align: center;
+    color: #FFFFFF;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image .texts {
+    padding: 16rem 0;
+}
+.image h1, p {
+    line-height: 60px;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.image h1 {
+    font-weight: 900;
+    padding-bottom: 4rem;
+}
+.image p {
+    font-weight: 700;
+}
+
+/* login inputs */
+
+.login_inputs {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+.login_inputs h1 {
+    font-weight: bold;
+    line-height: 0.5;
+}
+.login_inputs h1 + span {
+    margin-bottom: 3.75rem;
+}
+.formulario_login {
+    display: flex;
+    flex-direction: column;
+}
+.input_email, .input_senha {
+    display: inline-grid;
+}
+.esqueceu_senha {
+    font-weight: lighter;
+}
+.btn_login {
+    margin: 2rem auto;
+    cursor: pointer;
+    padding: 4px 15px;
+    width: 159px;
+    height: 49px;
+    background: #228896;
+    box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+    border-radius: 2px;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 22px;
+    border: none;
+}
+.btn_login:hover {
+    background: #1c737e;
+}
+.criar_conta {
+    text-align: center;
+}
