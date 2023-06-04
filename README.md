@@ -28,7 +28,7 @@ O projeto consiste em desenvolver uma aplicação web que ajude jovens adultos b
 
 ### Link do projeto no ar
 
-[Clique aqui!](https://wonderful-empanada-d00508.netlify.app/)
+[Clique aqui!](https://deft-belekoy-807c9a.netlify.app/)
 
 # Planejamento
 
