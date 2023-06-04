@@ -75,6 +75,9 @@
     color: #228896;
     font-weight: bolder;
 }
+.error-message {
+    color: rgb(203, 73, 73);
+}
 .esqueceu_senha {
     font-weight: lighter;
 }
