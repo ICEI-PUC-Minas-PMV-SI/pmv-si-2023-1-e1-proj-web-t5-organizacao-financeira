@@ -61,6 +61,13 @@ Outras seções podem ser adicionadas neste documento para apresentar padrões d
 
 ![Tela Login](/docs/img/tela-login-desktop.png "Tela login")
 
+## Tela de cadastro 
+
+![Tela Cadastro](/docs/img/cadastre-se.png "Tela cadastro")
+
+## Tela "blog" para dicas financeiras
+
+![Tela Blog](/docs/img/blog.png "Tela blog")
 
 ## Simulação Desktop e Mobile
 
