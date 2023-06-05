@@ -26,7 +26,7 @@ O projeto consiste em desenvolver uma aplicação web que ajude jovens adultos b
 
 * Luciana de Nardin
 
-### Link do projeto no ar
+### Link do projeto em produção
 
 [Clique aqui!](https://deft-belekoy-807c9a.netlify.app/)
 
