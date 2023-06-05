@@ -1,4 +1,4 @@
-<h1 align="center"> Organização Financeira </h1> 
+<h1 align="center"> Diário Financeiro </h1> 
 
 <div align="center">
 
